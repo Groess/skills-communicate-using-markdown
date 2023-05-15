@@ -13,3 +13,13 @@
 ```
 $ python import matplotlib
 ```
+
+## adding a list (copied)
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+## adding a list on my own
+- [ ] test 1
+- [ ] test 2
